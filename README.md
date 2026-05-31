@@ -1,8 +1,8 @@
 # Repositório de Testes
-## Curso GIT e GITHUB do Professor José de Assis
-Um Repositório de Testes criado para aprender com as aulas do Professor José de Assis do Curso pelo YouTube de GIT e GitHub.
+## Curso GIT e GITHUB
+Um Repositório de Testes criado para aprender com as aulas do Professor José de Assis do Curso pelo YouTube.
 
-Testes:
+Conteúdos:
 
 ### Imagem do Golf Mk3 no jogo GTA: San Andreas:
 
