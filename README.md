@@ -4,13 +4,13 @@ Um Repositório de Testes criado para aprender com as aulas do Professor José d
 
 Conteúdos:
 
-### Imagem do Golf Mk3 no jogo GTA: San Andreas:
+### Imagem do Golf Mk3 no jogo GTA San Andreas:
 
-![Golf Mk3](https://github.com/Julio-Mota/repositorio-teste/blob/main/Golf%20MK3.jpg)
+![Golf Mk3](https://github.com/Julio-Mota/repositorio-pratica/blob/main/Golf%20MK3.jpg)
 
-### Assistir a um vídeo sobre este carro:
+### Assista a um vídeo sobre este carro:
 
-[![Golf Mk3](https://github.com/Julio-Mota/repositorio-teste/blob/main/Golf%20Mk3%20thumbnail%20video.png)](https://www.youtube.com/watch?v=a0on0IKjTmg)
+<a href="https://www.youtube.com/watch?v=a0on0IKjTmg" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Julio-Mota/repositorio-pratica/blob/main/Golf%20Mk3%20thumbnail%20video.png" alt="Foto de um Volkswagen Golf Mk3"></a>
 
 ### Link sobre a ficha técnica do veículo:
 
